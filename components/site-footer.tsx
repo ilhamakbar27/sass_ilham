@@ -14,7 +14,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
           <p className="text-center text-sm leading-loose md:text-left">
             Built by{" "}
             <a
-              href="https://twitter.com/kathanmehtaa"
+              href="https://github.com/ilhamakbar27"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
