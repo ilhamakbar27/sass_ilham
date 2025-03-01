@@ -52,14 +52,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
           </p>
         </div>
         {/* <ModeToggle /> */}
-        <a
-              href="https://twitter.com/kathanmehtaa"
-              target="_blank"
-              rel="noreferrer"
-              className="font-medium text-2xl dark:md:hover:bg-gray-800 border border-spacing-4 border-opacity-80 rounded px-2"
-            >
-              𝕏
-            </a>
+      
       </div>
     </footer>
   )
